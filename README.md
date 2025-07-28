@@ -11,7 +11,7 @@ Welcome to the repository for my master's seminar presentation on **Level-Crossi
 📂 `presentation/LC_ADC_Seminar.pdf`  
 A high-quality slide deck explaining:
 - 🧠 The core theory behind LC-ADCs  
-- 🔄 Comparison with traditional Nyquist and Sigma-Delta ADCs  
+- 🔄 Comparison with traditional Nyquist ADCs  
 - 🔧 Architecture & working principle  
 - 💡 Applications in low-power and sensor interface systems  
 - 🔍 Research examples and recent trends  
@@ -25,30 +25,24 @@ Level-Crossing ADCs offer:
 - ✅ Event-driven sampling
 - ✅ Ideal for biomedical & IoT sensor interfaces
 
-They’re an emerging topic in **analog/mixed-signal IC design**, and this presentation provides a great starting point for students, researchers, and enthusiasts.
+They’re an emerging topic in **mixed-signal IC design**, and this presentation provides a great starting point for students, researchers, and enthusiasts.
 
 ---
 
 ## 🎓 Author
 
-**Ali [Your Last Name]**  
+**Ali Qorbani Fard**  
 Master’s student in Electronics – Analog IC Design  
 K. N. Toosi University of Technology  
 🦊 Founder of [Sly Fox Electronics](https://www.youtube.com/@SlyFoxElectronics)
 
 ---
 
-## 🧠 Related Work
-
-This presentation is part of my ongoing thesis:  
-**“Design and Simulation of a Low-Power Two-Stage CMOS Operational Amplifier for Analog Front-End of a Photodiode-Based Gas Sensor Using Level-Crossing ADC in 180nm CMOS Technology”**
-
----
 
 ## 📎 License
 
 This content is shared for educational purposes.  
-© 2025 Ali [Your Last Name] – All rights reserved.
+© 2025 Ali Qorbani Fard – All rights reserved.
 
 ---
 
