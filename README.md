@@ -49,7 +49,7 @@ This content is shared for educational purposes.
 ## 🌐 Connect with Me
 
 - 🔗 [YouTube – Sly Fox Electronics](https://www.youtube.com/@SlyFoxElectronics)
-- 📧 [Email – youremail@example.com] *(optional)*
+- 📧 [Email – aliqorbanif@gmail.com] 
 
 ---
 
