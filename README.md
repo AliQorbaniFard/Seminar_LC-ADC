@@ -2,6 +2,8 @@
 
 Welcome to the repository for my master's seminar presentation on **Level-Crossing ADCs (LC-ADCs)** — a non-uniform sampling architecture that's reshaping how we think about analog-to-digital conversion in low-power systems! 🔍⚡
 
+<img width="555" height="173" alt="introduction" src="https://github.com/user-attachments/assets/c47e7efb-3fd6-4099-8ea1-d5e7c3ba9f25" />
+
 ---
 
 ## 🎯 What’s Inside?
